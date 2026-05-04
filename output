@@ -1,0 +1,46 @@
+--- Product Review Sentiment Analysis ---
+
+Original Review: This phone has an amazing battery life
+Processed Words: ['phone', 'amazing', 'battery', 'life']
+Sentiment Score: 0.6000000000000001
+Sentiment: Positive 😊
+------------------------------------------------------------
+Original Review: The product stopped working after two days
+Processed Words: ['product', 'stopped', 'working', 'two', 'days']
+Sentiment Score: 0.0
+Sentiment: Neutral 😐
+------------------------------------------------------------
+Original Review: Excellent quality and fast delivery
+Processed Words: ['excellent', 'quality', 'fast', 'delivery']
+Sentiment Score: 0.6
+Sentiment: Positive 😊
+------------------------------------------------------------
+Original Review: Very खराब product, not worth buying
+Processed Words: ['खराब', 'product', 'worth', 'buying']
+Sentiment Score: 0.02500000000000001
+Sentiment: Positive 😊
+------------------------------------------------------------
+Original Review: Good value for money
+Processed Words: ['good', 'value', 'money']
+Sentiment Score: 0.7
+Sentiment: Positive 😊
+------------------------------------------------------------
+Original Review: Terrible experience, completely useless
+Processed Words: ['terrible', 'experience', 'completely', 'useless']
+Sentiment Score: -0.75
+Sentiment: Negative 😡
+------------------------------------------------------------
+Original Review: I am satisfied with the purchase
+Processed Words: ['satisfied', 'purchase']
+Sentiment Score: 0.5
+Sentiment: Positive 😊
+------------------------------------------------------------
+Original Review: Average performance, could be better
+Processed Words: ['average', 'performance', 'could', 'better']
+Sentiment Score: 0.175
+Sentiment: Positive 😊
+------------------------------------------------------------
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to /root/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
